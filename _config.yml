@@ -3,6 +3,11 @@
 # Name of website
 title: Chris McCluskey
 
+---
+.......
+bigimg: "/img/bigbud.jpg"
+---  
+
 # Short description of your site
 description: My portfolio of Data Science and Blockchain related projects
 
