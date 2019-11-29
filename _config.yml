@@ -1,12 +1,7 @@
 # --- General options --- #
 
 # Name of website
-title: Chris McCluskey
-
----
-.......
-bigimg: "/img/bigbud.jpg"
----  
+title: Chris McCluskey 
 
 # Short description of your site
 description: My portfolio of Data Science and Blockchain related projects
@@ -42,20 +37,21 @@ avatar: "/img/me.jpg"
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
-# navbar-col: "#F5F5F5"
-# navbar-text-col: "#404040"
-# navbar-children-col: "#F5F5F5"
-# page-col: "#FFFFFF"
-# link-col: "#008AFF"
-# hover-col: "#0085A1"
-# footer-col: "#F5F5F5"
-# footer-text-col: "#777777"
-# footer-link-col: "#404040"
+navbar-col: "#F5F5F5"
+navbar-text-col: "#404040"
+navbar-children-col: "#F5F5F5"
+page-col: "#FFFFFF"
+link-col: "#008AFF"
+hover-col: "#0085A1"
+footer-col: "#F5F5F5"
+footer-text-col: "#777777"
+footer-link-col: "#404040"
+bigimg: "/img/bigbud.jpg"
 
 # Alternatively, the navbar, footer, and page background can be set to use background images
 # instead of colour
 
-navbar-img: "/img/bigbud.jpg"
+# navbar-img: "/img/bigbud.jpg"
 # footer-img: "/img/bgimage.png"
 # page-img: "/img/bgimage.png"
 
